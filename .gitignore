@@ -1,0 +1,41 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+
+# Kivy
+.kivy/
+
+# Virtual Environments
+venv/
+.env/
+.venv/
+env/
+
+# Buildozer
+buildozer.spec
+*.apk
+*.so
+build/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Python distribution package
+*.egg-info/
+dist/
+.eggs/
+*.egg
